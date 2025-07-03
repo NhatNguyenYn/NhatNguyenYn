@@ -55,7 +55,7 @@
 
 ## 🤝 Let's connect!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://facebook.com/ngonhatnguyen)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ngonhatnguyen2k7.it)
 [![Email](https://img.shields.io/badge/Email-ngonhatnguyen.developer%40gmail.com-blue?style=flat&logo=gmail)](mailto:ngonhatnguyen.developer@gmail.com)
 
 ---
