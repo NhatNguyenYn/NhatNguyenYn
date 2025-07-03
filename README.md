@@ -35,6 +35,7 @@
 |------|-------------|------|
 | 🔗 [Vietnam-website-past-and-present](https://github.com/NhatNguyenYn/Vietnam-website-past-and-present) | A cultural HTML/CSS website about Vietnam's history | `HTML`, `CSS`, `GitHub Pages` |
 | 🔗 [Young-computer-science-2025-HCM](https://github.com/NhatNguyenYn/Young-computer-science-2025-HCM) | Python GUI app using Tkinter & QRCode – for a national competition | `Python`, `Tkinter`, `qrcode` |
+| 🔗 [Gesture-Air-Control-Framework](https://github.com/NhatNguyenYn/Gesture-Air-Control-Framework) | Gesture-Air-Control-Framework | `Python`, `Tkinter`, `computer vision` |
 
 ---
 
