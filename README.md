@@ -61,5 +61,5 @@
 ---
 
 > “Each project I publish here is a step toward my dream of contributing to the global robotics revolution.”  
-> — Nhat Nguyen Yuna 🇻🇳
+> — Nhat Nguyen Yuna
 
