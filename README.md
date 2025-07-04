@@ -33,9 +33,9 @@
 
 | Name | Description | Tech |
 |------|-------------|------|
-| 🔗 [Vietnam-website-past-and-present](https://github.com/NhatNguyenYn/Vietnam-website-past-and-present) | A cultural HTML/CSS website about Vietnam's history | `HTML`, `CSS`, `GitHub Pages` |
 | 🔗 [Young-computer-science-2025-HCM](https://github.com/NhatNguyenYn/Young-computer-science-2025-HCM) | Python GUI app using Tkinter & QRCode – for a national competition | `Python`, `Tkinter`, `qrcode` |
 | 🔗 [Gesture-Air-Control-Framework V1](https://github.com/NhatNguyenYn/Gesture-Air-Control-Framework) | Control your PC with air gestures — draw, click, adjust, without touching | `Python`, `Tkinter`, `computer vision` |
+| 🔗 [Caro-Deluxe-1.0](https://github.com/NhatNguyenYn/Caro-Deluxe-1.0) | A polished Caro game built with Pygame, featuring a powerful Minimax AI | `Python`, `AI`, `JSON`, `PyGame`|
 
 ---
 
