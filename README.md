@@ -36,6 +36,8 @@
 | 🔗 [Young-computer-science-2025-HCM](https://github.com/NhatNguyenYn/Young-computer-science-2025-HCM) | Python GUI app using Tkinter & QRCode – for a national competition | `Python`, `Tkinter`, `qrcode` |
 | 🔗 [Gesture-Air-Control-Framework V1](https://github.com/NhatNguyenYn/Gesture-Air-Control-Framework) | Control your PC with air gestures — draw, click, adjust, without touching | `Python`, `Tkinter`, `computer vision` |
 | 🔗 [Caro-Deluxe-1.0](https://github.com/NhatNguyenYn/Caro-Deluxe-1.0) | A polished Caro game built with Pygame, featuring a powerful Minimax AI | `Python`, `AI`, `JSON`, `PyGame`|
+| 🔗 [Rock-Paper-Scissors-AI](https://github.com/NhatNguyenYn/Rock-Paper-Scissors-AI) | Rock Paper Scissors AI Webcam is a hands-free game using real-time gesture and voice control | `Python`, `AI`, `JSON`, `HTML`, `CSS`|
+
 
 ---
 
